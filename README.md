@@ -1,1 +1,1 @@
-# registration-service
+# Redistration service for api-gateway
